@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Title\rogo.cs">
+    <Files>
+      <File FileName="Assets\Script\Title\TitleController.cs" Line="24" Column="16" />
+      <File FileName="Assets\Script\Title\RoomChecker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Title\LoginButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Title\NameBox.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Title\RoomBox.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\playing\play_Wrapper.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\playing\Play_GameController.cs" Line="1" Column="1" />
+      <File FileName="c:\Users\intern\Unity\ISO2(Intern_Syogi_Online_2)\Assets\Script\Pieces\MoveTypeSc.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Title\first\PressKey.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\guide\TurnGuide.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugin\Fade.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\playing\LogoutButton.cs" Line="42" Column="73" />
+      <File FileName="Assets\Script\Title\C_Boss.cs" Line="21" Column="14" />
+      <File FileName="Assets\Script\Title\rogo.cs" Line="17" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
